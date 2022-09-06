@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm ArtA or HT0710</h1>
+<h1 align="center">I'm ArtA or HT0710</h1>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
