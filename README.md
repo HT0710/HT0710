@@ -9,14 +9,21 @@
 
 ## About me
 - I'm a college student trying to do and learn what I want and coding has always been one of them. But after all, become an Robotics AI Engineering is my goal.
-- I’m currently learning Javascript
+- Age: 20
+- My country: Vietnam
+- Speak language: vietnamese, english
 
-### Learned
+
+#### Learning
+- AI university curriculum
+- Javascript
+
+#### Learned
 - Langauges: Python, Java, HTML, CSS
 - Databas: mongodb
 - Other: API, Vim, Discordpy, Discordjs
 
-### Aiming
+#### Aiming
 - Python framework
 - Langauges: R, C++
 - More database
@@ -24,5 +31,5 @@
 - Backend, Web3, Blockchain
 - Other: Docker, Notion
 
-## Contact
+# Contact
 - Mail: pthung7102002@gmail.com
