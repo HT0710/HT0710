@@ -1,8 +1,6 @@
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=HT0710&show_icons=true)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HT0710&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HT0710&show_icons=true" />
+<a href="">
+  <img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HT0710)](https://github.com/anuraghazra/github-readme-stats)
+" />
 </a>
 
 <!--
