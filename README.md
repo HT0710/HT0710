@@ -8,7 +8,7 @@
 </p>
 
 ## About me
-- I'm a college student trying to do and learn what I want and coding has always been one of them. But in the end is an Robotics AI Engineering is my goal.
+- I'm a college student trying to do and learn what I want and coding has always been one of them. But after all, become an Robotics AI Engineering is my goal.
 - I’m currently learning Javascript
 
 ### Learned
