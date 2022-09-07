@@ -28,8 +28,8 @@
 - Langauges: R, C++
 - More database
 - Personal website
-- Backend, Web3, Blockchain
 - Other: Docker, Notion
+- Interest: Backend, Web3, Blockchain
 
 # Contact
 - Mail: pthung7102002@gmail.com
