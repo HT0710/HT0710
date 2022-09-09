@@ -13,6 +13,11 @@
 - My country: Vietnam
 - Speak language: vietnamese, english
 
+### Experience
+- OOP with Java
+- Simple frontend
+- Writting a Discrod bot with Javascript and Python
+- SVD, PCA, Linear Regression algorithm
 
 #### Learning
 - AI university curriculum
@@ -24,7 +29,7 @@
 - Other: API, Vim, Discordpy, Discordjs
 
 #### Aiming
-- Python framework
+- More Python framework
 - Langauges: R, C++
 - More database
 - Personal website
