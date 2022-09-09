@@ -15,7 +15,7 @@
 
 ### Experience
 - OOP with Java
-- Simple frontend
+- Simple frontend, public API, Self-service app with Python
 - Writting a Discrod bot with Javascript and Python
 - SVD, PCA, Linear Regression algorithm
 
