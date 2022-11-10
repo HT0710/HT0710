@@ -16,15 +16,18 @@
 ### Experience
 - OOP with Java
 - Simple frontend, public API, Self-service app with Python
-- Writting a Discrod bot with Javascript and Python
-- SVD, PCA, Gradient Descent, Linear Regression algorithm
+- Discrod bot with Javascript and Python
+- The majority of Machine Learning algorithms
 
-#### Learning
+#### Learning ~ ([Roadmap](https://i.am.ai/roadmap/#machine-learning-roadmap))
 - AI university curriculum
-- Javascript
+- Python AI libraries
+- C/C++, R
+- Advanced machine learning
+- Deep learning
 
 #### Learned
-- Langauges: Python, Java, HTML, CSS
+- Langauges: Python, Java, HTML, CSS, Javascript
 - Databas: mongodb
 - Other: API, Vim, Discordpy, Discordjs
 
@@ -37,4 +40,4 @@
 - Interest: Backend, Web3, Blockchain
 
 # Contact
-- Mail: pthung7102002@gmail.com
+- Mail: pthung7102002@gmail.com, pthung7102002@fpt.edu.vn
