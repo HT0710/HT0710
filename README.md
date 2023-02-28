@@ -14,30 +14,20 @@
 - Speak language: Vietnamese, English
 
 ### Experience
-- OOP with Java
-- Simple frontend, public API, Self-service app with Python
+- Machine Learning and Deep Learning
 - Discrod bot with Javascript and Python
-- The majority of Machine Learning algorithms
+- Linux, OOP, API,...
 
 #### Learning ~ ([Roadmap](https://i.am.ai/roadmap/#machine-learning-roadmap))
 - AI university curriculum
 - Python AI libraries
-- C/C++, R
-- Advanced machine learning
-- Deep learning
+- More Machine Learning and Deep learning
+- C/C++, R,...
 
 #### Learned
 - Langauges: Python, Java, HTML, CSS, Javascript
-- Databas: mongodb
-- Other: API, Vim, Discordpy, Discordjs
-
-#### Aiming
-- More Python framework
-- Langauges: R, C++
-- More database
-- Personal website
-- Other: Docker, Notion
-- Interest: Backend, Web3, Blockchain
+- Databas: sql server, mongodb
+- Other: Vim, Discordpy, Discordjs
 
 # Contact
 - Mail: pthung7102002@gmail.com, pthung7102002@fpt.edu.vn
