@@ -1,11 +1,12 @@
 <h1 align="center">I'm ArtA or HT0710</h1>
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HT0710&show_icons=true&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HT0710&langs_count=3&theme=dark"/>
-</a>
-</p>
+<details>
+  <summary>GitHub Stats</summary>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats-ht0710.vercel.app/api?username=HT0710&show_icons=true&theme=dark"/>
+    <img align="center" src="https://github-readme-stats-ht0710.vercel.app/api/top-langs/?username=HT0710&langs_count=3&theme=dark"/>
+  </p>
+</details>
 
 ## About me
 - I'm a 3rd year student at FPT University, majoring in Artificial Intelligence or AI Engineer. With a strong ability for self-study and a diverse range of experience in various areas of IT and coding, I've found my true passion in the exciting and innovative world of AI.
@@ -42,8 +43,4 @@
 
 ## Contact
 - Mail: pthung7102002@gmail.com
-
-## Acknowledgments
-- Thanks to family, my mentors and colleagues who have helped me grow as a developer
-- Shoutout to the open-source community for inspiring me and teaching me new things
-- I am excited to continue my journey in Artificial Intelligence and make a positive impact in the world
+---
