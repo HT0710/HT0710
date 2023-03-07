@@ -8,7 +8,7 @@
 </p>
 
 ## About me
-- I'm a 3rd year student at FPT University, majoring in Artificial Intelligence or AI Development. With a strong ability for self-study and a diverse range of experience in various areas of IT and coding, I've found my true passion in the exciting and innovative world of AI.
+- I'm a 3rd year student at FPT University, majoring in Artificial Intelligence or AI Engineer. With a strong ability for self-study and a diverse range of experience in various areas of IT and coding, I've found my true passion in the exciting and innovative world of AI.
 - Age: 20
 - My country: Vietnam
 - Languages: Vietnamese, English
@@ -20,7 +20,7 @@
 - Linux, OOP, API, Vim
 
 ## Education
-- AI Development, FPT University (Ongoing)
+- AI Engineer at FPT University (Ongoing)
 - [Roadmap](https://i.am.ai/roadmap/#machine-learning-roadmap)
 
 ## Experience
@@ -41,7 +41,7 @@
 - Watch courses on Youtube
 
 ## Contact
-- Mail: pthung7102002@gmail.com or hungptse161052@fpt.edu.vn
+- Mail: pthung7102002@gmail.com
 
 ## Acknowledgments
 - Thanks to family, my mentors and colleagues who have helped me grow as a developer
