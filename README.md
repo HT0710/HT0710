@@ -17,7 +17,6 @@
 - Self-study
 - Reading
 - Videogame
-- Gym
 
 ## Contact
 - Mail: pthung7102002@gmail.com
