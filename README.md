@@ -9,14 +9,8 @@
 </details>
 
 ## About me
-- I'm a 3rd year student at FPT University, majoring in Artificial Intelligence. With a strong ability for self-study and a diverse range of experience in various areas of IT and coding, I've found my true passion in the exciting and innovative world of AI.
+- I'm a 4rd year student at FPT University, majoring in Artificial Intelligence. With a strong ability for self-study and a diverse range of experience in various areas of IT and coding, I've found my true passion in the exciting and innovative world of AI.
 - Languages: Vietnamese, English
-
-## Hobbies and Interests
-- Technology
-- Self-study
-- Reading
-- Videogame
 
 ## Contact
 - Mail: pthung7102002@gmail.com
